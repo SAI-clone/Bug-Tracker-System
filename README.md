@@ -33,3 +33,8 @@ python app.py
 
 Then open:
 http://127.0.0.1:5000
+
+Requirements
+flask
+
+SQLite will be auto-initialized (bug_tracker.db) on first run.
